@@ -2,8 +2,8 @@
 layout: post
 title:  "Investing in the S&P/ASX 20"
 date:   2019-01-20 14:23:27 -0500
-categories: [australia, investing, tax]
-tags: [PFIC, tax, investment]
+categories: [australia, investing, tax, asx]
+tags: [PFIC, tax, investment, asx, portfolio]
 ---
 
 Being an expat means juggling finances across two countries, until now I haven't really being paying attention to my money in Australia but since I've recently been educating myself on the [FIRE](https://en.wikipedia.org/wiki/FIRE_movement) movement, I wanted to make sure I was putting my Australian dollars to work.
@@ -28,7 +28,7 @@ I found out that there was an [iShares ETF](https://www.blackrock.com/au/individ
 
 {% include asx20.html %}
 
-Now this plan of course wouldn't be a great idea if you only had a few thousand to invest as its going to incur higher brokerage fees than just trading on a single index ETF. I trade with CMC so my brokerage will be 11 x 20 = $220AUD. The downside of maintaining my own portfolio is that it will be much harder to keep in balance of these ratios when I want to buy/sell but as owning individual stocks is my only option, I'm ok with this compromise. I'll plan on signing up for DRP on each of the stocks that offer them.
+Now this plan of course wouldn't be a great idea if you only had a few thousand to invest as its going to incur higher brokerage fees than just trading on a single index ETF. I trade with CMC so my brokerage will be 11 x 20 = ~$220AUD (some trades will be higher if they are over a certain amount). The downside of maintaining my own portfolio is that it will be much harder to keep in balance of these ratios when I want to buy/sell but as owning individual stocks is my only option, I'm ok with this compromise. I'll plan on signing up for DRP on each of the stocks that offer them.
 
 So this is my current investment plan for the money I have in Australia but I do like to quantify decisions with numbers so lets take a look at my two options, option A leave the money in a high interest savings account and option B investment in the S&P/ASX 20. We can assume it will be a longterm investment 5 years and for examples sake we'll use $100 000.
 

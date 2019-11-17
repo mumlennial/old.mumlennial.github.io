@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Benchmarking our portfolio"
+date:   2019-11-17 14:14:00 -0500
+categories: [australia, investing, tax]
+tags: [PFIC, tax, investment, asx, benchmark, portfolio]
+---
+
+In January [I wrote about]({% post_url 2019-01-20-investing-in-the-s&p-asx-20 %}) how we were investing in individual stocks that make up the S&P/ASX 20 rather than an index fund or an LIC in order to comply with tax reporting regulations here in the US. I thought I'd take some time now, 9 months on, to benchmark our portfolio.
+
+So we started off by purchasing the stocks that make up the S&P/ASX 20 (weighted by market cap). Then over the course of this year when added 15 more stocks to the initial 20, we just worked our way down the greater S&P/ASX 300 list and tried to skew a little more away from finance as the 45% of the socks in the S&P/ASX 20 are in finance and we felt a little over exposed. Additionally we tried to choose stocks that paid a dividend about the rate of inflation. I think actually my mum had told me about this technique and I just kind of went with it without really thinking about it more deeply.
+
+So how did we do? Well the markets have been generous in 2019 and our portfolio is up 11.25% since we started down this path. The index was at 3,265 end of January this year and as of mid November its 3,745 which is an increased of 14.7%. Remember our portfolio did grow from the original 20 stocks.
+
+We will be transferring a chunk of money back into Australia soon and have decided to expand to the S&P/ASX 50, and will just straight up use the market cap to weight the portfolio rather than looking at dividend yields etc. This will keep things simple and we just don't know enough about picking stocks ourselves so following an index just seems "easy". I do wish we could just buy some VAS instead of incur all these extra brokerage fees and the hassle of managing the portfolio, however this really is our only option if we want to continue to invest back in Australia.
